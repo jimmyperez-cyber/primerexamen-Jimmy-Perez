@@ -1,5 +1,5 @@
 # primerexamen-Jimmy-Perez
-# Landing Page MANACO
+#  MANACO
 
 Este proyecto fue desarrollado como parte del **Primer Examen Parcial de Tecnologías de Internet**.  
 La landing page corresponde a la empresa ficticia **MANACO**, siguiendo buenas prácticas de **HTML5 semántico, accesibilidad, SEO básico y diseño responsive**.
